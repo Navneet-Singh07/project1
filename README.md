@@ -1,5 +1,7 @@
 # project1
 this is my first repository in git .
+<br>
+Author - Navneet Singh 
 
 <h1> HTML TABLE  </h1>
 <table>
